@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023-04-14 00:25:00.294,=C:\Users\proje\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023-04-14 00:25:11.037,C:\Users\proje\Documents\Embarcadero\Studio\Projects\_InterfaceClass.pas=C:\Users\proje\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023-04-14 00:25:11.037,C:\Users\proje\Documents\Embarcadero\Studio\Projects\_InterfaceClass.dfm=C:\Users\proje\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023-04-14 00:25:39.044,C:\Users\proje\Documents\Embarcadero\Studio\Projects\ThreadStack0.dproj=C:\Users\proje\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023-04-14 00:26:54.816,C:\Users\proje\Desktop\Get ThreadStack0 Ptr\_InterfaceClass.pas=C:\Users\proje\Documents\Embarcadero\Studio\Projects\_InterfaceClass.pas</Transaction>
+    <Transaction>2023-04-14 00:26:54.817,C:\Users\proje\Desktop\Get ThreadStack0 Ptr\_InterfaceClass.dfm=C:\Users\proje\Documents\Embarcadero\Studio\Projects\_InterfaceClass.dfm</Transaction>
+    <Transaction>2023-04-14 00:26:55.534,C:\Users\proje\Desktop\Get ThreadStack0 Ptr\ThreadStack0.dproj=C:\Users\proje\Documents\Embarcadero\Studio\Projects\ThreadStack0.dproj</Transaction>
+    <Transaction>2023-04-14 00:27:10.264,=C:\Users\proje\Desktop\Get ThreadStack0 Ptr\Unit1.pas</Transaction>
+    <Transaction>2023-04-14 00:27:30.100,C:\Users\proje\Desktop\Get ThreadStack0 Ptr\_GetThreadStack0Class.pas=C:\Users\proje\Desktop\Get ThreadStack0 Ptr\Unit1.pas</Transaction>
+    <Transaction>2023-04-14 00:27:37.372,C:\Users\proje\Desktop\Get ThreadStack0 Ptr\_GetThreadStackClass.pas=C:\Users\proje\Desktop\Get ThreadStack0 Ptr\_GetThreadStack0Class.pas</Transaction>
+    <Transaction>2023-04-14 00:27:43.895,C:\Users\proje\Desktop\Get ThreadStack0 Ptr\GetThreadStack.dproj=C:\Users\proje\Desktop\Get ThreadStack0 Ptr\ThreadStack0.dproj</Transaction>
+    <Transaction>2023-04-14 00:27:50.809,C:\Users\proje\Desktop\Get ThreadStack0 Ptr\Classes\_GetThreadStackClass.pas=C:\Users\proje\Desktop\Get ThreadStack0 Ptr\_GetThreadStackClass.pas</Transaction>
+  </Transactions>
+</BorlandProject>
