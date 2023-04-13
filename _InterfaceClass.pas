@@ -37,7 +37,10 @@ begin
     GetThreadStackPtrs(GetCurrentProcess, ThreadStackList, GetCurrentProcessId);
     if (ThreadStackList.Count <> 0) then begin
       for Index := 0 to ThreadStackList.Count - 1 do begin
-
+        with InterfaceUI.ListView1.Items.Add do begin
+          Caption := 'ThreadStack' + IntToStr(Index);
+          SubItems.Add(ThreadStackList[Index]);
+        end;
       end;
     end else begin
       ShowMessage('ThreadStack not found');
